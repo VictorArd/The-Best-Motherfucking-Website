@@ -1,0 +1,74 @@
+body
+{
+	font-family: "Open Sans";
+}
+
+.Wrong
+{
+	color: rgb(135, 21, 21);
+}
+
+.verysmalltxt
+{
+	font-size: 7px;
+}
+
+.multicolor{
+animation:rainbow 1.5s infinite;
+}
+@keyframes rainbow{
+0%{		color: #e5433d;}
+15%{	color: #e5d13c;}
+30%{	color: #63e53b;}
+45%{	color: #3bb7e5;}
+60%{	color: #5e36e2;}
+80%{	color: #d036e2;}
+100%{	color: #e2365b;}
+}
+
+.icons
+{
+	height: 1em
+}
+
+.carre
+{
+	height: 1em;
+	color: black;
+}
+
+.imagechat
+{
+	height: 12em;
+	float: left;
+}
+
+.dessouschat
+{
+	clear: both;
+	font-size: 10px;
+}
+
+.author
+{
+
+	color: #474747;
+
+}
+
+.author2
+{
+
+	color: #474747;
+	font-size: 10px;
+
+}
+
+.copyimage
+{
+height: 5em;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 10%;
+}
