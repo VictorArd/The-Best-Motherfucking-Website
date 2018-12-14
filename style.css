@@ -1,6 +1,10 @@
 body
 {
-	font-family: "Open Sans";
+font-family: "Open Sans";
+margin: 40px auto;
+padding: 50 10px;
+max-width: 800px;
+text-align: justify;
 }
 
 .Wrong
