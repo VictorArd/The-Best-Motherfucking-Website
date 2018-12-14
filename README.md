@@ -1,1 +1,1 @@
-Version 1 de The Better Motherfucking Website en ligne ici:
+Version 1 de The Better Motherfucking Website en ligne ici: https://victorard.github.io/The-Best-Motherfucking-Website/
